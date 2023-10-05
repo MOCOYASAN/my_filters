@@ -1,3 +1,9 @@
+[Adblock Plus 3.19]
+
+! Title: マイ フィルターリスト1
+! 作成者：MOCO
+
+!ここから追加
 5ch.net##.adBanner
 5ch.net##.post-item-box
 5ch.net##IMG
