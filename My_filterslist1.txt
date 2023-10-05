@@ -2,7 +2,7 @@
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2023/10/5 20:25
+! 最終更新 2023/10/5 20:55
 
 !ここから追加
 5ch.net##.adBanner
@@ -19,8 +19,11 @@ account.adobe.com##.manage-plan-action-item
 account.adobe.com##.button-link.spectrum-Button.spectrum-Button--primary
 account.adobe.com##.actionable-info-box.social-account-well
 account.microsoft.com###cancel-sub-button
+amazon.co.jp##.a-carousel-display-swap
 anond.hatelabo.jp##.item
 anond.hatelabo.jp##.refererlist
+bing.com###vs_cont
+bing.com##.b_ans
 business.nikkei.com##.p-article_footer
 c-streaming.net##.btn_formSend
 ch.nicovideo.jp###column_wrap
@@ -46,6 +49,14 @@ game.nicovideo.jp##.CommentAreaCommentsSP
 game.nicovideo.jp##.CommentArea__GamePlayerCommentArea
 gendai.media##fw-storyblock[style="width: 100%;"]
 globalnewsview.org###comments.themeform
+google.com###bres
+google.com###rhs
+google.com##.kno-fiu
+google.com##.yf
+google.com##.c3mZkd
+google.com##.W3btD
+google.com##.ov9hob
+google.com##.oIk2Cb
 honto.jp##.stUserReview01
 ign.com###disqus
 instagram.userlocal.jp##.col.nav-col
