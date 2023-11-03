@@ -86,8 +86,10 @@ nicovideo.jp##.AnimatorContainer
 nicovideo.jp##.NicoDicLink
 nicovideo.jp##.NicoAdContainer
 nicovideo.jp##.ChannelContainer
-nicovideo.jp##DIV.itemDescription
+nicovideo.jp##.itemDescription
 nicovideo.jp##.sub
+nicovideo.jp##.Marquee
+nicovideo.jp##.css-ej666q
 nikkei.com##.k-hub-comemo-header-postfix
 nikkei.com##.k-hub-layout__grid--comemo
 note.com##.o-wrapper__sideMenu
