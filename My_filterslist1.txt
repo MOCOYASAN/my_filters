@@ -57,6 +57,7 @@ google.com##.c3mZkd
 google.com##.W3btD
 google.com##.ov9hob
 google.com##.oIk2Cb
+google.com##.uVMCKf
 honto.jp##.stUserReview01
 ign.com###disqus
 instagram.userlocal.jp##.col.nav-col
@@ -96,6 +97,7 @@ note.com##.o-wrapper__sideMenu
 note.com##.o-navbarMenu
 note.com##.p-article__hashtags
 note.com##.p-article__comment
+note.com##.p-article__recommend
 note.com##.search
 open-shelf.appspot.com##.booklist.bordered
 photo-ac.com##.col-item
