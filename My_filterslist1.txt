@@ -140,6 +140,7 @@ youtube.com##YTD-COMMENTS-ENTRY-POINT-HEADER-RENDERER
 youtube.com###actions
 youtube.com##.style-scope ytd-search ytd-shelf-renderer
 youtube.com##ytd-horizontal-card-list-renderer
+youtube.com##YTD-REEL-SHELF-RENDERER
 
 
 
