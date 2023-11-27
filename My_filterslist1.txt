@@ -2,7 +2,7 @@
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2023/11/19 15:20
+! 最終更新 2023/11/27 19:42
 
 !ここから追加
 5ch.net##.adBanner
@@ -100,6 +100,7 @@ note.com##.p-article__hashtags
 note.com##.p-article__comment
 note.com##.p-article__recommend
 note.com##.search
+note.com###tagListBody
 open-shelf.appspot.com##.booklist.bordered
 photo-ac.com##.col-item
 photo-ac.com##.bg-light
