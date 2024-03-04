@@ -145,7 +145,6 @@ yodobashi.com##.section.pdContainer
 yodobashi.com###productSet6Opened--userEvaluation
 youtube.com##.style-scope.ytd-comments
 youtube.com###menu-container
-youtube.com###chat
 youtube.com##YTD-MINI-GUIDE-RENDERER
 youtube.com##.tp-yt-app-drawer
 youtube.com##YTD-TWO-COLUMN-BROWSE-RESULTS-RENDERER.grid-disabled
