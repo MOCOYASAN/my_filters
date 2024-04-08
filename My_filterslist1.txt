@@ -1,8 +1,8 @@
-[Adblock Plus 3.25]
+[Adblock Plus 3.25.1]
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2024/3/12 11:31
+! 最終更新 2024/4/8 16:50
 
 !ここから追加
 ##.comment-area
@@ -132,6 +132,10 @@ sp.nicovideo.jp##.top-NicoNewsContainer
 sp.nicovideo.jp##.top-NiconicoChannelContainer
 tabiris.com##.td-social-list
 tabiris.com##.widget_text
+togetter.com###popular-tag-portal
+togetter.com###comments-summary-portal
+togetter.com##.related_list_box
+togetter.com##.thumb_list_box
 tv-asahi.co.jp###news-info
 tv-asahi.co.jp##.section-houdou-column
 tv-tokyo.co.jp##.tbcms_recent-post
