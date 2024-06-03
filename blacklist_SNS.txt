@@ -2,6 +2,31 @@
 
 ! Title: blacklist SNS
 ! 作成者：MOCO
-! 最終更新 2024/6/3 22:14
+! 最終更新 2024/6/4 0:19
 
-www.google.com##.MjjYud:has-text(/ゲーム/)
+!blacklist togetter
+togetter.com##.ep667k35.css-1kz4acv:has-text(/ando85996775/)
+togetter.com##.ep667k35.css-1kz4acv:has-text(/zikyo384/)
+togetter.com##.ep667k35.css-1kz4acv:has-text(/ziegrune/)
+togetter.com##.ep667k35.css-1kz4acv:has-text(/AnGaono16116/)
+togetter.com##.ep667k35.css-1kz4acv:has-text(/miyabi790R/)
+togetter.com##.ep667k35.css-1kz4acv:has-text(/pandon2/)
+togetter.com##.ep667k35.css-1kz4acv:has-text(/toiec24/)
+togetter.com##.ep667k35.css-1kz4acv:has-text(/bossabossa9434/)
+togetter.com##.ep667k35.css-1kz4acv:has-text(/zen_chip/)
+togetter.com##.ep667k35.css-1kz4acv:has-text(/kisahara1/)
+togetter.com##.ep667k35.css-1kz4acv:has-text(/mayapple/)
+togetter.com##.ep667k35.css-1kz4acv:has-text(/ggggame8/)
+togetter.com##.ep667k35.css-1kz4acv:has-text(/sakusakutoux3/)
+togetter.com##.ep667k35.css-1kz4acv:has-text(/tigi6957040/)
+togetter.com##.ep667k35.css-1kz4acv:has-text(/8TzXvVmv5m3519/)
+togetter.com##.ep667k35.css-1kz4acv:has-text(/Rand0mDieCe/)
+togetter.com##.ep667k35.css-1kz4acv:has-text(/sakkurisakuri36/)
+togetter.com##.ep667k35.css-1kz4acv:has-text(/sub_konnme/)
+togetter.com##.ep667k35.css-1kz4acv:has-text(/spmomijiman10/)
+
+!blacklist pixiv
+www.pixiv.net##.liyNwX.sc-iasfms-5:has-text(/Johnxina334/)
+
+
+
