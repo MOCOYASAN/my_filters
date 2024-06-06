@@ -178,10 +178,17 @@ youtube.com##ytd-horizontal-card-list-renderer
 youtube.com##YTD-REEL-SHELF-RENDERER
 
 
-
-
-
-
-
-
+!臨時
+anicobin.ldblog.jp##.rss-column2
+anicobin.ldblog.jp##.plugin-memo.sidewrapper
+anicobin.ldblog.jp##.plugin-recent_comments.sidewrapper
+anicobin.ldblog.jp##.top-article-outer.article-chumoku.hentry
+anicobin.ldblog.jp###article-options
+anicobin.ldblog.jp##.amazlet-box
+anicobin.ldblog.jp##.rss-column-middle2
+anicobin.ldblog.jp##.footer-outer-2
+anicobin.ldblog.jp##.kt
+anicobin.ldblog.jp##.menu
+anicobin.ldblog.jp##.t_h
+anicobin.ldblog.jp##.t_b
 
