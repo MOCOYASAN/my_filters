@@ -40,6 +40,7 @@ character-seikaku.memo.wiki###comment-box
 character-seikaku.memo.wiki###pageroot-form-box
 character-seikaku.memo.wiki##.side-box.comment
 chat.openai.com##.btn.relative.btn-danger
+chatgpt.com##.btn.relative.btn-danger
 dch2020.force.com###page\:form\:modal-open-UnSubscribed1
 dch2020.force.com###page\:form\:modal-open-UnSubscribed2
 dch2020.force.com###page\:form\:modal-open-UnSubscribed3
