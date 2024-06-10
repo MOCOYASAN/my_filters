@@ -2,7 +2,7 @@
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2024/6/10 18:40
+! 最終更新 2024/6/10 18:51
 
 !ここから追加
 ##.comment-area
@@ -139,6 +139,7 @@ shueisha.online##.post-list-element
 sp.nicovideo.jp##.top-AuroraVisionContainer
 sp.nicovideo.jp##.top-NicoNewsContainer
 sp.nicovideo.jp##.top-NiconicoChannelContainer
+sso.wrtn.jp##.css-wx2121
 tabiris.com##.td-social-list
 tabiris.com##.widget_text
 togetter.com###popular-tag-portal
