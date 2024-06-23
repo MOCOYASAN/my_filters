@@ -2,7 +2,7 @@
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2024/6/23 19:59
+! 最終更新 2024/6/24 00:06
 
 !ここから追加
 ##.comment-area
@@ -23,6 +23,7 @@ account.adobe.com##.manage-plan-action-item
 account.adobe.com##.button-link.spectrum-Button.spectrum-Button--primary
 account.adobe.com##.actionable-info-box.social-account-well
 account.microsoft.com###cancel-sub-button
+account.microsoft.com###delete-address-dbd5c157-8cbb-517b-6877-1c07bb41b93d
 amazon.co.jp##.a-carousel-display-swap
 anond.hatelabo.jp##.item
 anond.hatelabo.jp##.refererlist
