@@ -1,8 +1,8 @@
-[Adblock Plus 4.4]
+[Adblock Plus 4.5]
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2024/8/5 18:01
+! 最終更新 2024/8/9 22:29
 
 !ここから追加
 ##.comment-area
@@ -98,6 +98,7 @@ member.impress.co.jp##.post_submit2.textCenter
 movie-tsutaya.tsite.jp##.banner-top
 natalie.mu##.NA_article_social
 natalie.mu##.GAE_commentBtn
+natalie.mu##.NA_article_score-comment
 ndlonline.ndl.go.jp##.tableCell.border-bottom-initial.ng-scope
 nicovideo.jp##.DefaultAnimator.is-excludable
 nicovideo.jp##.MainContainer-playerPanel
