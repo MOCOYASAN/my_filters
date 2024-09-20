@@ -8,6 +8,7 @@
 ##.comment-area
 ###comment-area
 ###ulCommentWidget
+###comments
 ##.twitter-timeline
 5ch.net##.adBanner
 5ch.net##.post-item-box
