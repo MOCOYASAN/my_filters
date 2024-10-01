@@ -143,6 +143,7 @@ qiita.com##.css-mifb2i
 s.mxtv.jp###news
 sankei.com##.article-tools
 sankei.com##.share-icons-container
+seikaku7.com###disqus_thread
 shueisha.online##.lo-Columns_CategoryBloc
 shueisha.online##.lo-GrayWhiteBox_Padding
 shueisha.online##.post-rank-element
