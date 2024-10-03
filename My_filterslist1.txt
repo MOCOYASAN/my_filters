@@ -1,8 +1,8 @@
-[Adblock Plus 4.5.1]
+[Adblock Plus 4.7.1]
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2024/9/2 21:01
+! 最終更新 2024/10/3 23:06
 
 !ここから追加
 ##.comment-area
@@ -67,6 +67,7 @@ dic.pixiv.net##.additional-content
 facebook.com##._7a8-
 game.nicovideo.jp##.CommentAreaCommentsSP
 game.nicovideo.jp##.CommentArea__GamePlayerCommentArea
+gamespark.jp###commentContainer
 gendai.media##fw-storyblock[style="width: 100%;"]
 globalnewsview.org###comments.themeform
 google.com###bres
