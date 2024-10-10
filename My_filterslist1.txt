@@ -161,6 +161,7 @@ togetter.com###popular-tag-portal
 togetter.com###comments-summary-portal
 togetter.com##.related_list_box
 togetter.com##.thumb_list_box
+togetter.com###comment-box-portal.comment_box
 tv-asahi.co.jp###news-info
 tv-asahi.co.jp##.section-houdou-column
 tv-tokyo.co.jp##.tbcms_recent-post
