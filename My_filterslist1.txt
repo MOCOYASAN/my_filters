@@ -174,12 +174,8 @@ twitter.com##[aria-label="キーワード検索"]
 twitter.com##[aria-label="アカウント作成"]
 twitter.com##.css-1dbjc4n.r-x572qd.r-1d6w8o1.r-1867qdf.r-1phboty.r-rs99b7.r-1ifxtd0.r-1udh08x
 twitter.com##.css-4rbku5.css-18t94o4.css-1dbjc4n.r-1loqt21.r-1ny4l3l.r-ymttw5.r-1yzf0co.r-o7ynqc.r-6416eg
-wrtn.jp##.css-zw50as
-wrtn.jp##.css-1lg3r4f
-wrtn.jp##.css-jxqpg1
-wrtn.jp##.css-ty5xi2
-wrtn.jp##.css-1w30811
 wrtn.jp##.css-141xgmo
+wrtn.jp##.css-yg8jmz
 x.com##[aria-label*="話題を検索"]
 x.com##[aria-label*="トレンド"]
 x.com##[aria-label*="調べたいものを検索"]
