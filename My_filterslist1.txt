@@ -2,7 +2,7 @@
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2024/10/3 23:06
+! 最終更新 2024/10/12 03:01
 
 !ここから追加
 ##.comment-area
@@ -176,6 +176,7 @@ twitter.com##.css-1dbjc4n.r-x572qd.r-1d6w8o1.r-1867qdf.r-1phboty.r-rs99b7.r-1ifx
 twitter.com##.css-4rbku5.css-18t94o4.css-1dbjc4n.r-1loqt21.r-1ny4l3l.r-ymttw5.r-1yzf0co.r-o7ynqc.r-6416eg
 wrtn.jp##.css-141xgmo
 wrtn.jp##.css-yg8jmz
+wrtn.jp##.css-1bip7di
 x.com##[aria-label*="話題を検索"]
 x.com##[aria-label*="トレンド"]
 x.com##[aria-label*="調べたいものを検索"]
