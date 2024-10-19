@@ -2,7 +2,7 @@
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2024/10/15 20:01
+! 最終更新 2024/10/20 00:45
 
 !ここから追加
 ##.comment-area
@@ -31,6 +31,11 @@ anond.hatelabo.jp##.item
 anond.hatelabo.jp##.refererlist
 bing.com###vs_cont
 bing.com##.b_ans
+bsky.app##.css-11aywtz.r-6taxm2
+bsky.app##.css-175oi2r.r-bnwqim.r-1ipicw7
+bsky.app##.css-175oi2r.r-13awgt0.r-1rnoaur.r-1la3zjv.r-3o4zer.r-1ipicw7
+bsky.app##.css-175oi2r.r-c4unlt.r-pgf20v.r-1rnoaur.r-1xcajam.r-1ki14p2.r-1w88a7h
+bsky.app##.css-175oi2r.r-150rngu.r-eqz5dr.r-16y2uox.r-1wbh5a2.r-11yh6sk.r-1rnoaur.r-agouwx.r-u9wvl5.r-1knelpx
 business.nikkei.com##.p-article_footer
 c-streaming.net##.btn_formSend
 c-streaming.net##.ico_menu_user02
