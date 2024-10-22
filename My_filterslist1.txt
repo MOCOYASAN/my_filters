@@ -138,7 +138,7 @@ note.com##.o-navbarPrimaryGuest__searchArea
 note.com##.o-viewComment
 note.com##.p-article__magazineHaving
 note.com##.border-border-default.border-b.py-3
-note.com##.p-article__extraItemSection
+note.com##.o-commentArea
 note.com##.p-article__extraRecommendedSection
 open-shelf.appspot.com##.booklist.bordered
 paypal.com##.card-xs.css-wmi712-card_base-sizeXsLong-clickable-elevation_level1
