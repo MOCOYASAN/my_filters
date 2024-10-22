@@ -2,7 +2,7 @@
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2024/10/20 00:45
+! 最終更新 2024/10/22 18:19
 
 !ここから追加
 ##.comment-area
@@ -140,6 +140,7 @@ note.com##.p-article__magazineHaving
 note.com##.border-border-default.border-b.py-3
 note.com##.o-commentArea
 note.com##.p-article__extraRecommendedSection
+note.com##.m-carouselGroup.o-magazineHaving
 open-shelf.appspot.com##.booklist.bordered
 paypal.com##.card-xs.css-wmi712-card_base-sizeXsLong-clickable-elevation_level1
 paypal.com##.ppvx_link.test_removeCard
