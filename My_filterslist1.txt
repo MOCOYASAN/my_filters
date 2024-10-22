@@ -70,6 +70,8 @@ dic.pixiv.net###article-pixiv-novel
 dic.pixiv.net###article-graph
 dic.pixiv.net##.additional-content
 dic.pixiv.net###sub
+dic.pixiv.net###attention-area-mobile-bottom.bg-background1.mb-24
+dic.pixiv.net##.mt-8
 facebook.com##._7a8-
 game.nicovideo.jp##.CommentAreaCommentsSP
 game.nicovideo.jp##.CommentArea__GamePlayerCommentArea
@@ -136,6 +138,8 @@ note.com##.o-navbarPrimaryGuest__searchArea
 note.com##.o-viewComment
 note.com##.p-article__magazineHaving
 note.com##.border-border-default.border-b.py-3
+note.com##.p-article__extraItemSection
+note.com##.p-article__extraRecommendedSection
 open-shelf.appspot.com##.booklist.bordered
 paypal.com##.card-xs.css-wmi712-card_base-sizeXsLong-clickable-elevation_level1
 paypal.com##.ppvx_link.test_removeCard
