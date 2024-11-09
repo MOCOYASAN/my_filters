@@ -2,13 +2,14 @@
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2024/11/08 03:08
+! 最終更新 2024/11/09 20:16
 
 !ここから追加
 ##.comment-area
 ###comment-area
 ###ulCommentWidget
 ###comments
+##.comment-box.js-comment-box
 ##.twitter-timeline
 5ch.net##.adBanner
 5ch.net##.post-item-box
@@ -92,10 +93,13 @@ google.com##.lU8tTd
 google.com##.XNfAUb
 google.com##.Wt5Tfe
 google.com##G-SECTION-WITH-HEADER
+google.com##.UUbT9.EyBRub
+google.com##.JwzvB
 honto.jp##.stUserReview01
 ign.com###disqus
 instagram.userlocal.jp##.col.nav-col
 instagram.userlocal.jp##.index
+ja.wikipedia.org##.cdx-menu.cdx-menu--has-footer.cdx-typeahead-search__menu
 japanese.joins.com###JCOMMENT
 jiji.com###comment
 jiji.com##.comment
@@ -205,7 +209,8 @@ youtube.com###actions
 youtube.com##.style-scope ytd-search ytd-shelf-renderer
 youtube.com##ytd-horizontal-card-list-renderer
 youtube.com##YTD-REEL-SHELF-RENDERER
-
+youtube.com##.gstl_50
+youtube.com##.YtSearchboxComponentSuggestionsContainer
 
 
 
