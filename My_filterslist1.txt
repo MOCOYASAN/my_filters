@@ -2,7 +2,7 @@
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2024/11/09 20:16
+! 最終更新 2024/11/13 18:11
 
 !ここから追加
 ##.comment-area
@@ -100,6 +100,7 @@ ign.com###disqus
 instagram.userlocal.jp##.col.nav-col
 instagram.userlocal.jp##.index
 ja.wikipedia.org##.cdx-menu.cdx-menu--has-footer.cdx-typeahead-search__menu
+ja.m.wikipedia.org##.search-results-view
 japanese.joins.com###JCOMMENT
 jiji.com###comment
 jiji.com##.comment
