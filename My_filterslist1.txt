@@ -2,7 +2,7 @@
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2024/11/13 18:11
+! 最終更新 2024/11/17 00:47
 
 !ここから追加
 ##.comment-area
@@ -149,7 +149,7 @@ peatix.com###cancel-action
 photo-ac.com##.col-item
 photo-ac.com##.bg-light
 photo-ac.com##.ad-colored-wrapper
-pixiv.net##.sc-1yvhotl-6.dmnOnu
+pixiv.net##.sc-1yvhotl-5.emsveB
 pixiv.net##.sc-1shvbgy-2.gLKKkP
 qiita.com##.css-19lfbe3
 qiita.com##.css-mifb2i
