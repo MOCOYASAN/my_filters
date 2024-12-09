@@ -2,7 +2,7 @@
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2024/12/08 03:03
+! 最終更新 2024/12/10 00:21
 
 !ここから追加
 ##.comment-area
@@ -10,6 +10,7 @@
 ###ulCommentWidget
 ###comments
 ##.comment-box.js-comment-box
+###article-comment
 ##.twitter-timeline
 5ch.net##.adBanner
 5ch.net##.post-item-box
