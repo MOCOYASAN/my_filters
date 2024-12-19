@@ -1,8 +1,8 @@
-[Adblock Plus 4.9.4]
+[Adblock Plus 4.10.0]
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2024/12/10 00:21
+! 最終更新 2024/12/20 00:03
 
 !ここから追加
 ##.comment-area
@@ -213,6 +213,7 @@ youtube.com##ytd-horizontal-card-list-renderer
 youtube.com##YTD-REEL-SHELF-RENDERER
 youtube.com##.gstl_50
 youtube.com##.YtSearchboxComponentSuggestionsContainer
+youtube.com##.ytSearchboxComponentSuggestionsContainer
 
 
 
