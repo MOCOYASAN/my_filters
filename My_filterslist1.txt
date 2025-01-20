@@ -2,7 +2,7 @@
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2025/01/18 21:55
+! 最終更新 2025/01/20 17:39
 
 !ここから追加
 ##.comment-area
@@ -113,6 +113,7 @@ kakolog.jp##.side
 kokebutaikiru.com###recent-comments-2
 kyushoku.hellowork.mhlw.go.jp##.mt2
 livedoor.com###container
+mainichi.jp###pi-pc-sponichi-ranking
 medicalpass.jp##.col-sm-4.col-sm-offset-4.col-xs-12
 member.impress.co.jp##.post_submit2.textCenter
 movie-tsutaya.tsite.jp##.banner-top
