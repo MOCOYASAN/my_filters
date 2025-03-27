@@ -1,4 +1,4 @@
-[Adblock Plus 4.12.0]
+[Adblock Plus 4.18.0]
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
@@ -99,6 +99,7 @@ google.com##.Wt5Tfe
 google.com##G-SECTION-WITH-HEADER
 google.com##.UUbT9.EyBRub
 google.com##.JwzvB
+google.com##.YNk70c.EjQTId
 honto.jp##.stUserReview01
 ign.com###disqus
 instagram.userlocal.jp##.col.nav-col
