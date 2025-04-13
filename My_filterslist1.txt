@@ -115,7 +115,7 @@ kakolog.jp##.side
 kokebutaikiru.com###recent-comments-2
 kyushoku.hellowork.mhlw.go.jp##.mt2
 livedoor.com###container
-m.youtube.com##.tab-content
+m.youtube.com##YTM-TAB-RENDERER
 m.youtube.com##YTM-ITEM-SECTION-RENDERER
 mainichi.jp###pi-pc-sponichi-ranking
 medicalpass.jp##.col-sm-4.col-sm-offset-4.col-xs-12
