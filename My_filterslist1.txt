@@ -1,8 +1,8 @@
-[Adblock Plus 4.19.0]
+[Adblock Plus 4.21.0]
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2025/04/14 00:24
+! 最終更新 2025/04/28 03:17
 
 !ここから追加
 ##.comment-area
@@ -160,6 +160,8 @@ photo-ac.com##.ad-colored-wrapper
 pixiv.net##.sc-1yvhotl-5.emsveB
 pixiv.net##.sc-1shvbgy-2.gLKKkP
 pixiv.net##.sc-133l69u-1.dztvKv
+pixiv.net##.sc-f473edfb-5.kTGJMX
+pixiv.net##.sc-b7feeb04-2.ifYMXZ
 posfie.com###popular-tag-portal
 posfie.com###comments-summary-portal
 posfie.com##.related_list_box
