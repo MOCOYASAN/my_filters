@@ -1,8 +1,8 @@
-[Adblock Plus 4.21.2]
+[Adblock Plus 4.22.0]
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2025/05/14 02:25
+! 最終更新 2025/05/22 20:36
 
 !ここから追加
 ##.comment-area
@@ -15,6 +15,8 @@
 ##.atwiki_page_comment_area
 ##.n.j-comment
 ###expertsComments
+##.p-article__extraRecommendedSection
+##.m-carouselGroup.o-magazineHaving
 5ch.net##.adBanner
 5ch.net##.post-item-box
 5ch.net##IMG
@@ -148,9 +150,8 @@ note.com###tagListBody
 note.com##.o-navbarPrimaryGuest__searchArea
 note.com##.o-viewComment
 note.com##.o-commentArea
-note.com##.p-article__extraRecommendedSection
-note.com##.m-carouselGroup.o-magazineHaving
 note.com##.t-timeline-new
+note.com##.p-search
 paypal.com##.card-xs.css-wmi712-card_base-sizeXsLong-clickable-elevation_level1
 paypal.com##.ppvx_link.test_removeCard
 peatix.com###cancel-action
