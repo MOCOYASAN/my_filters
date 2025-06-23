@@ -2,7 +2,7 @@
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2025/06/22 10:57
+! 最終更新 2025/06/23 18:31
 
 !ここから追加
 ##.comment-area
@@ -86,6 +86,7 @@ game.nicovideo.jp##.CommentAreaCommentsSP
 game.nicovideo.jp##.CommentArea__GamePlayerCommentArea
 gamespark.jp###commentContainer
 gendai.media##fw-storyblock[style="width: 100%;"]
+gendai.media##.needsclick
 globalnewsview.org###comments.themeform
 google.com###bres
 google.com###rhs
