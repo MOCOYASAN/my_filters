@@ -2,7 +2,7 @@
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2025/06/29 01:00
+! 最終更新 2025/06/30 21:36
 
 !ここから追加
 ##.comment-area
@@ -82,6 +82,7 @@ dic.pixiv.net##.additional-content
 dic.pixiv.net###sub
 dic.pixiv.net###attention-area-mobile-bottom.bg-background1.mb-24
 dic.pixiv.net##.mt-8
+dic.pixiv.net##.mt-\[36px\]
 facebook.com##._7a8-
 game.nicovideo.jp##.CommentAreaCommentsSP
 game.nicovideo.jp##.CommentArea__GamePlayerCommentArea
