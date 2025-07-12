@@ -2,7 +2,7 @@
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2025/07/09 00:35
+! 最終更新 2025/07/12 11:32
 
 !ここから追加
 ##.comment-area
@@ -245,3 +245,7 @@ youtube.com##YTD-WATCH-NEXT-SECONDARY-RESULTS-RENDERER
 zenn.dev###discuss
 zenn.dev##.BookCommunitySection_itemContainer__Dskft
 
+
+!大阪万博用
+ticket.expo2025.or.jp##.style_main__buttons__MP9In
+ticket.expo2025.or.jp##.style_event_detail__button__eo_Zr
