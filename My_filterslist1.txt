@@ -1,8 +1,8 @@
-[Adblock Plus 4.23.1]
+[Adblock Plus 4.23.2]
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2025/07/14 18:43
+! 最終更新 2025/07/18 00:02
 
 !ここから追加
 ##.comment-area
@@ -84,6 +84,7 @@ dic.pixiv.net###sub
 dic.pixiv.net###attention-area-mobile-bottom.bg-background1.mb-24
 dic.pixiv.net##.mt-8
 dic.pixiv.net##.mt-\[36px\]
+dic.pixiv.net##.mt-\[32px\].flex.flex-col.gap-\[32px\]
 facebook.com##._7a8-
 game.nicovideo.jp##.CommentAreaCommentsSP
 game.nicovideo.jp##.CommentArea__GamePlayerCommentArea
