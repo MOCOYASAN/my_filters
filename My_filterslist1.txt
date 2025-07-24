@@ -2,7 +2,7 @@
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2025/07/18 00:02
+! 最終更新 2025/07/24 19:49
 
 !ここから追加
 ##.comment-area
@@ -182,6 +182,8 @@ posfie.com###comment-box-portal.comment_box
 posfie.com##.recommend_posts_title
 posfie.com##.recommend_posts_box
 posfie.com##.right
+posfie.com##.info_status_box
+posfie.com##.recommend_posts_box.related_posts_box
 qiita.com##.css-19lfbe3
 qiita.com##.css-mifb2i
 s.mxtv.jp###news
@@ -207,6 +209,8 @@ togetter.com##.related_list_box
 togetter.com##.thumb_list_box
 togetter.com###comment-box-portal.comment_box
 togetter.com##.right
+togetter.com##.info_status_box
+togetter.com##.recommend_posts_box.related_posts_box
 tv-asahi.co.jp###news-info
 tv-asahi.co.jp##.section-houdou-column
 tv-tokyo.co.jp##.tbcms_recent-post
