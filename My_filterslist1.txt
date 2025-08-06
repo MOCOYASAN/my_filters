@@ -2,7 +2,7 @@
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2025/07/26 14:49
+! 最終更新 2025/08/06 22:34
 
 !ここから追加
 ##.comment-area
@@ -39,6 +39,7 @@ account.nicovideo.jp##.cols.cols__footer
 amazon.co.jp##.a-carousel-display-swap
 anond.hatelabo.jp##.item
 anond.hatelabo.jp##.refererlist
+bbs.animanch.com###recommends.row.g-0
 bing.com###vs_cont
 bing.com##.b_ans
 bsky.app##.css-11aywtz.r-6taxm2
@@ -260,3 +261,4 @@ zenn.dev##.BookCommunitySection_itemContainer__Dskft
 !大阪万博用
 ticket.expo2025.or.jp##.style_main__buttons__MP9In
 ticket.expo2025.or.jp##.style_event_detail__button__eo_Zr
+
