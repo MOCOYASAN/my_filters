@@ -2,7 +2,7 @@
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2025/08/19 11:51
+! 最終更新 2025/08/25 23:39
 
 !ここから追加
 ##.comment-area
@@ -163,6 +163,7 @@ note.com##.o-viewComment
 note.com##.o-commentArea
 note.com##.t-timeline-new
 note.com##.p-search
+oricon.co.jp##.block-sub.block-sub-news
 orteil.dashnet.org#@##comments
 paypal.com##.card-xs.css-wmi712-card_base-sizeXsLong-clickable-elevation_level1
 paypal.com##.ppvx_link.test_removeCard
@@ -266,6 +267,7 @@ zenn.dev##.BookCommunitySection_itemContainer__Dskft
 !大阪万博用
 ticket.expo2025.or.jp##.style_main__buttons__MP9In
 ticket.expo2025.or.jp##.style_event_detail__button__eo_Zr
+
 
 
 
