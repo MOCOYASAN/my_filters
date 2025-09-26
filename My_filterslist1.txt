@@ -1,8 +1,8 @@
-[Adblock Plus 4.25.1]
+[Adblock Plus 4.28.0]
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2025/09/05 17:14
+! 最終更新 2025/09/26 23:53
 
 !ここから追加
 ##.comment-area
@@ -22,6 +22,7 @@
 ###reviewBox
 ##.hatena-bookmark-comment-iframe
 ###block-2.widget.widget-sidebar.widget-sidebar-standard.widget_block.widget_recent_comments
+##.rss_top_style
 5ch.net##.adBanner
 5ch.net##.post-item-box
 5ch.net##IMG
@@ -264,10 +265,6 @@ youtube.com##.ytGridShelfViewModelHost.ytd-item-section-renderer.ytGridShelfView
 zenn.dev###discuss
 zenn.dev##.BookCommunitySection_itemContainer__Dskft
 
-
-!大阪万博用
-ticket.expo2025.or.jp##.style_main__buttons__MP9In
-ticket.expo2025.or.jp##.style_event_detail__button__eo_Zr
 
 
 
