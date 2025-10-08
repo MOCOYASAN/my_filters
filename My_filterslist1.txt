@@ -2,7 +2,7 @@
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2025/10/05 23:00
+! 最終更新 2025/10/08 23:16
 
 !ここから追加
 ##.comment-area
@@ -23,6 +23,7 @@
 ##.hatena-bookmark-comment-iframe
 ###block-2.widget.widget-sidebar.widget-sidebar-standard.widget_block.widget_recent_comments
 ##.rss_top_style
+##.PostDetail__InnerWrapper-sc-1qktdrj-4.jQOeJH
 5ch.net##.adBanner
 5ch.net##.post-item-box
 5ch.net##IMG
@@ -265,6 +266,7 @@ youtube.com##YTD-WATCH-NEXT-SECONDARY-RESULTS-RENDERER
 youtube.com##.ytGridShelfViewModelHost.ytd-item-section-renderer.ytGridShelfViewModelHostHasBottomButton
 zenn.dev###discuss
 zenn.dev##.BookCommunitySection_itemContainer__Dskft
+
 
 
 
