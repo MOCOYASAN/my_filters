@@ -2,7 +2,7 @@
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2025/10/08 23:16
+! 最終更新 2025/10/09 23:32
 
 !ここから追加
 ##.comment-area
@@ -43,6 +43,7 @@ account.nicovideo.jp##.cols.cols__footer
 amazon.co.jp##.a-carousel-display-swap
 anond.hatelabo.jp##.item
 anond.hatelabo.jp##.refererlist
+asoview.com###base-review.review-list
 bbs.animanch.com###recommends.row.g-0
 bing.com###vs_cont
 bing.com##.b_ans
@@ -266,6 +267,7 @@ youtube.com##YTD-WATCH-NEXT-SECONDARY-RESULTS-RENDERER
 youtube.com##.ytGridShelfViewModelHost.ytd-item-section-renderer.ytGridShelfViewModelHostHasBottomButton
 zenn.dev###discuss
 zenn.dev##.BookCommunitySection_itemContainer__Dskft
+
 
 
 
