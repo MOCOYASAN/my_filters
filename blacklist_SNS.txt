@@ -1,8 +1,8 @@
-[Adblock Plus 4.24.1]
+[Adblock Plus 4.29.0]
 
 ! Title: blacklist SNS
 ! 作成者：MOCO
-! 最終更新 2025/08/06 01:08
+! 最終更新 2025/10/19 23:22
 
 !blacklist togetter
 togetter.com##.ep667k35.css-1kz4acv:has-text(/ando85996775/)
@@ -31,6 +31,10 @@ togetter.com##.ep667k35.css-1kz4acv:has-text(/air_bombs/)
 !blacklist pixiv
 www.pixiv.net##.sc-57c4d86c-5.gTqtlQ:has-text(/Johnxina334/)
 www.pixiv.net##.sc-57c4d86c-5.gTqtlQ:has-text(/このみここ/)
+www.pixiv.net##.sc-57c4d86c-5.gTqtlQ:has-text(/bebe/)
+
+
+
 
 
 
