@@ -2,7 +2,7 @@
 
 ! Title: blacklist SNS
 ! 作成者：MOCO
-! 最終更新 2025/10/26 00:38
+! 最終更新 2025/10/30 22:46
 
 !blacklist togetter
 togetter.com##.ep667k35.css-1kz4acv:has-text(/ando85996775/)
@@ -29,10 +29,11 @@ togetter.com##.ep667k35.css-1kz4acv:has-text(/failed_konkatsu/)
 togetter.com##.ep667k35.css-1kz4acv:has-text(/air_bombs/)
 
 !blacklist pixiv
-www.pixiv.net##.sc-38ec486e-5.gCNcAW:has-text(/Johnxina334/)
-www.pixiv.net##.sc-38ec486e-5.gCNcAW:has-text(/このみここ/)
-www.pixiv.net##.sc-38ec486e-5.gCNcAW:has-text(/bebe/)
+www.pixiv.net##.sc-ef08dbb1-5.jJLjGK:has-text(/Johnxina334/)
+www.pixiv.net##.sc-ef08dbb1-5.jJLjGK:has-text(/このみここ/)
+www.pixiv.net##.sc-ef08dbb1-5.jJLjGK:has-text(/bebe/)
 www.pixiv.net##.sc-3a91e6c3-1.fgfoAA:has-text(/bebe/)
+
 
 
 
