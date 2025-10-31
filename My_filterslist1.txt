@@ -2,7 +2,7 @@
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2025/10/26 00:30
+! 最終更新 2025/10/31 21:08
 
 !ここから追加
 ##.comment-area
@@ -59,6 +59,8 @@ c-streaming.net##.btn_formSend
 c-streaming.net##.ico_menu_user02
 c-streaming.net##.ico_menu_user03
 c-streaming.net##.ico_menu_user06
+canva.com##._5KtATA.LQzFZw.VgvqkQ._8ERLTg.Z3nT2A._4_iekA._3oHQrw.j34Zww.aqbYPg._3FvZZg.SuvnDQ
+canva.com##.q9oJFg.s7aOHQ.BMOCzQ.fOwrSw._8CKO_A._6Mu4Ow.uN3EIA.XJKpHg.LuBWVA
 ch.nicovideo.jp###column_wrap
 ch.nicovideo.jp###comment_area
 ch.nicovideo.jp##.tag_items
@@ -169,6 +171,7 @@ note.com##.o-commentArea
 note.com##.t-timeline-new
 note.com##.p-search
 note.com##.contents
+note.com##.o-commentSection.px-4.sm\:px-0
 oricon.co.jp##.block-sub.block-sub-news
 orteil.dashnet.org#@##comments
 paypal.com##.card-xs.css-wmi712-card_base-sizeXsLong-clickable-elevation_level1
@@ -264,6 +267,7 @@ youtube.com##YTD-WATCH-NEXT-SECONDARY-RESULTS-RENDERER
 youtube.com##.ytGridShelfViewModelHost.ytd-item-section-renderer.ytGridShelfViewModelHostHasBottomButton
 zenn.dev###discuss
 zenn.dev##.BookCommunitySection_itemContainer__Dskft
+
 
 
 
