@@ -1,8 +1,8 @@
-[Adblock Plus 4.29.1]
+[Adblock Plus 4.30.1]
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2025/10/31 21:08
+! 最終更新 2025/11/07 19:40
 
 !ここから追加
 ##.comment-area
@@ -180,8 +180,8 @@ peatix.com###cancel-action
 photo-ac.com##.col-item
 photo-ac.com##.bg-light
 photo-ac.com##.ad-colored-wrapper
-pixiv.net##.sc-e5696a7a-2.cqggx
-pixiv.net##.sc-93ad0c29-1.kbrqvT
+pixiv.net##.sc-65d44561-1.YEBRh
+pixiv.net##.sc-82245357-0.tuwgD
 pixiv.net##.CommentInput_container__8MItU
 pixiv.net##.CommentList_wrapper__iJjW6.CommentList_spa__dHYI6
 pocket.shonenmagazine.com##.p-episode__header-comment
@@ -267,6 +267,7 @@ youtube.com##YTD-WATCH-NEXT-SECONDARY-RESULTS-RENDERER
 youtube.com##.ytGridShelfViewModelHost.ytd-item-section-renderer.ytGridShelfViewModelHostHasBottomButton
 zenn.dev###discuss
 zenn.dev##.BookCommunitySection_itemContainer__Dskft
+
 
 
 
