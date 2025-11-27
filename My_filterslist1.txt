@@ -1,8 +1,8 @@
-[Adblock Plus 4.30.1]
+[Adblock Plus 4.32.0]
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2025/11/11 21:51
+! 最終更新 2025/11/27 21:26
 
 !ここから追加
 ##.comment-area
@@ -267,8 +267,12 @@ youtube.com##.YtSearchboxComponentSuggestionsContainer
 youtube.com##.ytSearchboxComponentSuggestionsContainer
 youtube.com##YTD-WATCH-NEXT-SECONDARY-RESULTS-RENDERER
 youtube.com##.ytGridShelfViewModelHost.ytd-item-section-renderer.ytGridShelfViewModelHostHasBottomButton
+youtube.com##.ytVideoMetadataCarouselViewModelHost
+youtube.com##.ytp-fullscreen-grid-stills-container
+youtube.com##.ytp-fullscreen-quick-actions
 zenn.dev###discuss
 zenn.dev##.BookCommunitySection_itemContainer__Dskft
+
 
 
 
