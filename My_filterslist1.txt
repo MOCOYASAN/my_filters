@@ -2,7 +2,7 @@
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2025/11/27 21:26
+! 最終更新 2025/12/01 17:50
 
 !ここから追加
 ##.comment-area
@@ -225,6 +225,7 @@ togetter.com###comment-box-portal.comment_box
 togetter.com##.right
 togetter.com##.info_status_box
 togetter.com##.recommend_posts_box.related_posts_box
+tsumanne.net###index
 tv-asahi.co.jp###news-info
 tv-asahi.co.jp##.section-houdou-column
 tv-tokyo.co.jp##.tbcms_recent-post
@@ -272,6 +273,7 @@ youtube.com##.ytp-fullscreen-grid-stills-container
 youtube.com##.ytp-fullscreen-quick-actions
 zenn.dev###discuss
 zenn.dev##.BookCommunitySection_itemContainer__Dskft
+
 
 
 
