@@ -2,7 +2,7 @@
 
 ! Title: blacklist SNS
 ! 作成者：MOCO
-! 最終更新 2025/11/11 22:32
+! 最終更新 2025/12/11 21:49
 
 !blacklist togetter
 togetter.com##.ep667k35.css-1kz4acv:has-text(/ando85996775/)
@@ -33,6 +33,9 @@ www.pixiv.net##.sc-fab8f26d-5.bcMvPT:has-text(/Johnxina334/)
 www.pixiv.net##.sc-fab8f26d-5.bcMvPT:has-text(/このみここ/)
 www.pixiv.net##.sc-fab8f26d-5.bcMvPT:has-text(/bebe/)
 www.pixiv.net##.sc-3a91e6c3-1.fgfoAA:has-text(/bebe/)
+www.pixiv.net##.sc-fab8f26d-5.bcMvPT:has-text(/FLFL/)
+www.pixiv.net##.sc-3a91e6c3-1.fgfoAA:has-text(/FLFL/)
+
 
 
 
