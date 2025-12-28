@@ -2,7 +2,7 @@
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2025/12/27 23:39
+! 最終更新 2025/12/28 19:46
 
 !ここから追加
 ##.comment-area
@@ -50,6 +50,7 @@ anond.hatelabo.jp##.refererlist
 asoview.com###base-review.review-list
 asoview.com###base-review.section-with-gap
 bbs.animanch.com###recommends.row.g-0
+bbs.animanch.com##.badge.btn.report
 bing.com###vs_cont
 bing.com##.b_ans
 bsky.app##.css-11aywtz.r-6taxm2
@@ -278,6 +279,7 @@ youtube.com##.ytp-fullscreen-grid-stills-container
 youtube.com##.ytp-fullscreen-quick-actions
 zenn.dev###discuss
 zenn.dev##.BookCommunitySection_itemContainer__Dskft
+
 
 
 
