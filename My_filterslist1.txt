@@ -2,7 +2,7 @@
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2026/01/06 16:52
+! 最終更新 2026/01/06 21:32
 
 !ここから追加
 ##.comment-area
@@ -168,6 +168,7 @@ nicovideo.jp##.itemDescription
 nicovideo.jp##.sub
 nicovideo.jp##.Marquee
 nicovideo.jp##.css-ej666q
+nicovideo.jp##.d_flex.flex-d_column.gap_x2.p_x2.w_watchSidebar\.width.h_100\%.bg-c_layer\.surfaceHighEm.bdr_m.ov_hidden.w_\[fit-content\]
 nikkei.com##.k-hub-comemo-header-postfix
 nikkei.com##.k-hub-layout__grid--comemo
 note.com##.o-wrapper__sideMenu
@@ -280,6 +281,7 @@ youtube.com##.ytp-fullscreen-grid-stills-container
 youtube.com##.ytp-fullscreen-quick-actions
 zenn.dev###discuss
 zenn.dev##.BookCommunitySection_itemContainer__Dskft
+
 
 
 
