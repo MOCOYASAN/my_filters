@@ -2,7 +2,7 @@
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2026/01/22 19:19
+! 最終更新 2026/01/22 19:28
 
 !ここから追加
 ##.comment-area
@@ -28,6 +28,7 @@
 ###fix_sidebar
 ###cm
 ##.pcomment-comments-container
+##.pcommentform
 ||221b.jp/icon/amazon-retu-announce-598-n.gif
 5ch.net##.adBanner
 5ch.net##.post-item-box
@@ -283,6 +284,7 @@ youtube.com##.ytp-fullscreen-grid-stills-container
 youtube.com##.ytp-fullscreen-quick-actions
 zenn.dev###discuss
 zenn.dev##.BookCommunitySection_itemContainer__Dskft
+
 
 
 
