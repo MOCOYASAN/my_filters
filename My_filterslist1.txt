@@ -1,8 +1,8 @@
-[Adblock Plus 4.32.5]
+[Adblock Plus 4.33.0]
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2026/01/22 19:28
+! 最終更新 2026/02/06 18:32
 
 !ここから追加
 ##.comment-area
@@ -135,7 +135,9 @@ ign.com###disqus
 instagram.userlocal.jp##.col.nav-col
 instagram.userlocal.jp##.index
 ja.wikipedia.org##.cdx-menu.cdx-menu--has-footer.cdx-typeahead-search__menu
+ja.wikipedia.org##.cdx-menu.cdx-typeahead-search__menu
 ja.m.wikipedia.org##.search-results-view
+ja.m.wikipedia.org##.cdx-menu.cdx-typeahead-search__menu
 japanese.joins.com###JCOMMENT
 jiji.com###comment
 jiji.com##.comment
@@ -284,6 +286,7 @@ youtube.com##.ytp-fullscreen-grid-stills-container
 youtube.com##.ytp-fullscreen-quick-actions
 zenn.dev###discuss
 zenn.dev##.BookCommunitySection_itemContainer__Dskft
+
 
 
 
