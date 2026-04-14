@@ -2,7 +2,7 @@
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2026/04/13 18:56
+! 最終更新 2026/04/14 19:58
 
 !ここから追加
 ##.comment-area
@@ -235,6 +235,7 @@ sso.wrtn.jp##.css-wx2121
 store.steampowered.com##.review_ctn
 tabiris.com##.td-social-list
 tabiris.com##.widget_text
+threads.com###barcelona-page-layout
 togetter.com###popular-tag-portal
 togetter.com###comments-summary-portal
 togetter.com##.related_list_box
