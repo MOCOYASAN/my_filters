@@ -1,8 +1,8 @@
-[Adblock Plus 4.36.4]
+[Adblock Plus 4.37.0]
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2026/04/14 19:58
+! 最終更新 2026/04/15 19:26
 
 !ここから追加
 ##.comment-area
@@ -215,6 +215,7 @@ posfie.com##.recommend_posts_box
 posfie.com##.right
 posfie.com##.info_status_box
 posfie.com##.recommend_posts_box.related_posts_box
+posfie.com##.user_show_posts_box
 qiita.com##.css-19lfbe3
 qiita.com##.css-mifb2i
 s.mxtv.jp###news
@@ -244,6 +245,7 @@ togetter.com###comment-box-portal.comment_box
 togetter.com##.right
 togetter.com##.info_status_box
 togetter.com##.recommend_posts_box.related_posts_box
+togetter.com##.topics_box
 tsumanne.net###index
 tv-asahi.co.jp###news-info
 tv-asahi.co.jp##.section-houdou-column
