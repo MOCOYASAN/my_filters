@@ -1,8 +1,8 @@
-[Adblock Plus 4.38.0]
+[Adblock Plus 4.38.1]
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2026/05/12 17:30
+! 最終更新 2026/05/14 18:55
 
 !ここから追加
 ##.comment-area
@@ -191,7 +191,6 @@ note.com##.t-timeline-new
 note.com##.p-search
 note.com##.contents
 note.com##.o-commentSection.px-4.sm\:px-0
-note.com##.m-noteBreadcrumb.p-article__breadcrumb
 note.com##.min-h-screen.lg\:mt-2.lg\:mb-0.lg\:ml-4.lg\:grid.lg\:grid-cols-\[202px_minmax\(0\,1fr\)\].lg\:grid-rows-none
 oricon.co.jp##.block-sub.block-sub-news
 orteil.dashnet.org#@##comments
