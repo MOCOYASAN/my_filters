@@ -2,7 +2,7 @@
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2026/05/14 21:33
+! 最終更新 2026/05/15 17:17
 
 !ここから追加
 ##.comment-area
@@ -293,6 +293,7 @@ youtube.com##.ytGridShelfViewModelHost.ytd-item-section-renderer.ytGridShelfView
 youtube.com##.ytVideoMetadataCarouselViewModelHost
 youtube.com##.ytp-fullscreen-grid-stills-container
 youtube.com##.ytp-fullscreen-quick-actions
+youtube.com##.ytReelPlayerOverlayViewModelActionsContainer
 zenn.dev###discuss
 zenn.dev##.BookCommunitySection_itemContainer__Dskft
 
