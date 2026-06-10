@@ -1,8 +1,8 @@
-[Adblock Plus 4.38.3]
+[Adblock Plus 4.39.1]
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2026/06/01 21:00
+! 最終更新 2026/06/10 12:59
 
 !ここから追加
 ##.comment-area
@@ -271,6 +271,7 @@ x.com##.css-1dbjc4n.r-x572qd.r-1d6w8o1.r-1867qdf.r-1phboty.r-rs99b7.r-1ifxtd0.r-
 x.com##.css-4rbku5.css-18t94o4.css-1dbjc4n.r-1loqt21.r-1ny4l3l.r-ymttw5.r-1yzf0co.r-o7ynqc.r-6416eg
 x.com##.css-175oi2r.r-4d76ec
 x.com##.css-175oi2r.r-1ets6dv.r-1867qdf.r-rs99b7.r-13awgt0.r-bx70bn.r-o7ynqc.r-6416eg.r-1ny4l3l.r-1loqt21
+x.com##.flex.w-\[290px\].flex-col.gap-4.pb-16.pe-\[10px\].ps-\[10px\].pt-3.nav-xl\:w-\[350px\].nav-xxl\:ps-\[30px\].\[\&\>\*\]\:shrink-0
 xbox.com##.Row-module__row___iFfSz
 xtrend.nikkei.com###rhizomePostArea
 yodobashi.com##.section.pdContainer
