@@ -2,7 +2,7 @@
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2026/06/10 12:59
+! 最終更新 2026/06/16 18:31
 
 !ここから追加
 ##.comment-area
@@ -234,6 +234,7 @@ sp.nicovideo.jp##.top-NicoNewsContainer
 sp.nicovideo.jp##.top-NiconicoChannelContainer
 sso.wrtn.jp##.css-wx2121
 store.steampowered.com##.review_ctn
+suzuri.jp##.ncgr-container.ncgr-pad-t-24.ncgr-pad-b-24
 tabiris.com##.td-social-list
 tabiris.com##.widget_text
 threads.com###barcelona-page-layout
