@@ -2,7 +2,7 @@
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2026/06/17 20:33
+! 最終更新 2026/06/20 20:44
 
 !ここから追加
 ##.comment-area
@@ -165,6 +165,7 @@ natalie.mu##.NA_article_score-comment
 ndlonline.ndl.go.jp##.tableCell.border-bottom-initial.ng-scope
 ndlsearch.ndl.go.jp##.base-panel.has-background-main.delete-patron-area
 news.yahoo.co.jp###articleCommentModule
+news.yahoo.co.jp##.sc-13eq9c6-0.cecaiE
 nicovideo.jp##.DefaultAnimator.is-excludable
 nicovideo.jp##.MainContainer-playerPanel
 nicovideo.jp##.NicoNewsContainer
