@@ -2,7 +2,7 @@
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2026/07/02 20:44
+! 最終更新 2026/07/02 20:52
 
 !ここから追加
 ##.comment-area
@@ -119,7 +119,7 @@ girlschannel.net##.wrap.flc
 globalnewsview.org###comments.themeform
 google.com###rhs
 google.com##.oIk2Cb
-google.com##.Lv2Cle
+google.com##.vRy7rc
 google.com##.Wt5Tfe
 google.com##G-SECTION-WITH-HEADER
 google.com##.UUbT9.EyBRub
@@ -129,7 +129,7 @@ google.com##.aJegcc
 google.com##.vtSz8d
 google.com##.Qq3Lb
 google.com###B2Jtyd
-google.com###eKIz
+google.com###eKIzJc
 honto.jp##.stUserReview01
 ign.com###disqus
 instagram.userlocal.jp##.col.nav-col
