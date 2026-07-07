@@ -2,7 +2,7 @@
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2026/07/02 20:58
+! 最終更新 2026/07/07 19:35
 
 !ここから追加
 ##.comment-area
@@ -84,6 +84,7 @@ character-seikaku.memo.wiki###pageroot-form-box
 character-seikaku.memo.wiki##.side-box.comment
 chat.openai.com##.btn.relative.btn-danger
 chatgpt.com##.btn.relative.btn-danger
+data-max.co.jp##.information_bar
 dch2020.force.com###page\:form\:modal-open-UnSubscribed1
 dch2020.force.com###page\:form\:modal-open-UnSubscribed2
 dch2020.force.com###page\:form\:modal-open-UnSubscribed3
