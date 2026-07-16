@@ -2,7 +2,7 @@
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2026/07/14 22:14
+! 最終更新 2026/07/16 20:56
 
 !ここから追加
 ##.comment-area
@@ -84,11 +84,15 @@ character-seikaku.memo.wiki###pageroot-form-box
 character-seikaku.memo.wiki##.side-box.comment
 chat.openai.com##.btn.relative.btn-danger
 chatgpt.com##.btn.relative.btn-danger
+chiebukuro.yahoo.co.jp###wrapper
 data-max.co.jp##.information_bar
 dch2020.force.com###page\:form\:modal-open-UnSubscribed1
 dch2020.force.com###page\:form\:modal-open-UnSubscribed2
 dch2020.force.com###page\:form\:modal-open-UnSubscribed3
 design.webclips.jp##.single_ad_300
+detail.chiebukuro.yahoo.co.jp##.Detail_chie-Pages__ColumnItem--Sub__UqE-K
+detail.chiebukuro.yahoo.co.jp###srm.target_modules
+detail.chiebukuro.yahoo.co.jp#@##wrapper
 dic.nicovideo.jp##.st-box_contents
 dic.nicovideo.jp##.st-bbs-contents
 dic.nicovideo.jp##.st-box_radius-bottom
@@ -223,6 +227,7 @@ qiita.com##.css-mifb2i
 s.mxtv.jp###news
 sankei.com##.article-tools
 sankei.com##.share-icons-container
+search.yahoo.co.jp##.sub
 seikaku7.com###disqus_thread
 shonenjumpplus.com###episode-comment.series-comment-contents
 shonenjumpplus.com###hatena-bookmark-container
