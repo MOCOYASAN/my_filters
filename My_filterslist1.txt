@@ -1,8 +1,8 @@
-[Adblock Plus 4.44.0]
+[Adblock Plus 4.44.1]
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2026/09/21 15:39
+! 最終更新 2026/09/24 22:13
 
 !ここから追加
 ##.comment-area
@@ -171,6 +171,7 @@ ndlonline.ndl.go.jp##.tableCell.border-bottom-initial.ng-scope
 ndlsearch.ndl.go.jp##.base-panel.has-background-main.delete-patron-area
 news.yahoo.co.jp###articleCommentModule
 news.yahoo.co.jp##.sc-13eq9c6-0.cecaiE
+news.yahoo.co.jp###uamods-recommend
 nicovideo.jp##.DefaultAnimator.is-excludable
 nicovideo.jp##.MainContainer-playerPanel
 nicovideo.jp##.NicoNewsContainer
