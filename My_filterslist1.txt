@@ -1,8 +1,8 @@
-[Adblock Plus 4.44.1]
+[Adblock Plus 4.45.0]
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2026/09/24 22:13
+! 最終更新 2026/09/30 18:02
 
 !ここから追加
 ##.comment-area
@@ -203,6 +203,7 @@ note.com##.o-commentSection.px-4.sm\:px-0
 note.com##.m-noteBreadcrumb.p-article__breadcrumb
 note.com##.min-h-screen.lg\:mt-2.lg\:mb-0.lg\:ml-4.lg\:grid.lg\:grid-cols-\[202px_minmax\(0\,1fr\)\].lg\:grid-rows-none
 note.com##.o-noteDetailFeaturedKeywords.o-noteDetailFeaturedKeywords--visible.mb-4
+note.com##.m-contentRaters__body.gap-x-2
 oricon.co.jp##.block-sub.block-sub-news
 orteil.dashnet.org#@##comments
 paypal.com##.card-xs.css-wmi712-card_base-sizeXsLong-clickable-elevation_level1
@@ -288,6 +289,7 @@ x.com##.css-175oi2r.r-4d76ec
 x.com##.css-175oi2r.r-1ets6dv.r-1867qdf.r-rs99b7.r-13awgt0.r-bx70bn.r-o7ynqc.r-6416eg.r-1ny4l3l.r-1loqt21
 x.com##.overflow-hidden.rounded-md.border.border-border.bg-background
 x.com##.transition-colors.focus-visible\:outline-2.focus-visible\:outline-blue-500.focus-visible\:-outline-offset-2.px-horizontal.py-vertical.border-b.border-gray-100.cursor-pointer.hover\:bg-gray-100\/50
+x.com##.outline-blue-500.transition-colors.focus-visible\:outline-2.focus-visible\:-outline-offset-2.px-horizontal.py-vertical.border-b.border-gray-100.cursor-pointer.hover\:bg-gray-100\/50
 xbox.com##.Row-module__row___iFfSz
 xtrend.nikkei.com###rhizomePostArea
 yodobashi.com##.section.pdContainer
