@@ -2,7 +2,7 @@
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2026/10/03 18:31
+! 最終更新 2026/10/06 01:56
 
 !ここから追加
 ##.comment-area
@@ -190,20 +190,17 @@ nicovideo.jp##.d_flex.flex-d_column.gap_x2.p_x2.w_watchSidebar\.width.h_100\%.bg
 nikkan-gendai.com##.right-menu
 nikkei.com##.k-hub-comemo-header-postfix
 nikkei.com##.k-hub-layout__grid--comemo
-note.com##.o-wrapper__sideMenu
-note.com##.o-navbarMenu
-note.com##.p-article__hashtags
-note.com###tagListBody
-note.com##.o-navbarPrimaryGuest__searchArea
-note.com##.o-viewComment
-note.com##.o-commentArea
-note.com##.t-timeline-new
-note.com##.p-search
-note.com##.o-commentSection.px-4.sm\:px-0
-note.com##.m-noteBreadcrumb.p-article__breadcrumb
 note.com##.min-h-screen.lg\:mt-2.lg\:mb-0.lg\:ml-4.lg\:grid.lg\:grid-cols-\[202px_minmax\(0\,1fr\)\].lg\:grid-rows-none
-note.com##.o-noteDetailFeaturedKeywords.o-noteDetailFeaturedKeywords--visible.mb-4
-note.com##.m-contentRaters__body.gap-x-2
+note.com##.pointer-events-auto.fixed.top-0.right-0.left-0.z-50.flex.h-\[var\(--navbar-primary-mobile-height\)\].items-center.bg-surface-normal.p-1.sm\:h-\[var\(--navbar-primary-height\)\].md\:static.md\:bg-transparent.md\:p-0
+note.com##.pt-6.px-4.md\:px-0
+note.com##.mx-4.py-4.md\:mx-0
+note.com##.mx-auto.w-auto.border-border-default.border-t.px-4.py-4.empty\:hidden.md\:w-\[var\(--size-content\\_small\)\]
+note.com##.flex.flex-wrap.gap-2
+note.com##.font-bold.text-sm.text-text-primary.mb-4
+note.com##.px-4.pt-4.md\:px-0
+note.com##.grid.grid-cols-1.gap-6.lg\:gap-14
+note.com##.flex.items-center.gap-4.sm\:gap-8
+note.com##.mt-4.flex.justify-center
 oricon.co.jp##.block-sub.block-sub-news
 orteil.dashnet.org#@##comments
 paypal.com##.card-xs.css-wmi712-card_base-sizeXsLong-clickable-elevation_level1
