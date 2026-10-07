@@ -1,8 +1,8 @@
-[Adblock Plus 4.45.0]
+[Adblock Plus 4.46.0]
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2026/10/06 01:56
+! 最終更新 2026/10/07 23:09
 
 !ここから追加
 ##.comment-area
@@ -286,8 +286,7 @@ x.com##.css-4rbku5.css-18t94o4.css-1dbjc4n.r-1loqt21.r-1ny4l3l.r-ymttw5.r-1yzf0c
 x.com##.css-175oi2r.r-4d76ec
 x.com##.css-175oi2r.r-1ets6dv.r-1867qdf.r-rs99b7.r-13awgt0.r-bx70bn.r-o7ynqc.r-6416eg.r-1ny4l3l.r-1loqt21
 x.com##.overflow-hidden.rounded-md.border.border-border.bg-background
-x.com##.transition-colors.focus-visible\:outline-2.focus-visible\:outline-blue-500.focus-visible\:-outline-offset-2.px-horizontal.py-vertical.border-b.border-gray-100.cursor-pointer.hover\:bg-gray-100\/50
-x.com##.outline-blue-500.transition-colors.focus-visible\:outline-2.focus-visible\:-outline-offset-2.px-horizontal.py-vertical.border-b.border-gray-100.cursor-pointer.hover\:bg-gray-100\/50
+x.com##.outline-blue-500.transition-colors.focus-visible\:outline-2.focus-visible\:-outline-offset-2.px-horizontal.py-vertical.border-b.border-gray-100.cursor-pointer.hover\:bg-black-03.dark\:hover\:bg-white-03
 xbox.com##.Row-module__row___iFfSz
 xtrend.nikkei.com###rhizomePostArea
 yodobashi.com##.section.pdContainer
