@@ -2,7 +2,7 @@
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2026/10/09 21:25
+! 最終更新 2026/10/10 23:05
 
 !ここから追加
 ##.comment-area
@@ -232,6 +232,7 @@ s.mxtv.jp###news
 sankei.com##.article-tools
 sankei.com##.share-icons-container
 search.yahoo.co.jp##.sub
+secure.indeed.com##.settings-AccountClose-LinkContainer
 seikaku7.com###disqus_thread
 shonenjumpplus.com###episode-comment.series-comment-contents
 shonenjumpplus.com###hatena-bookmark-container
