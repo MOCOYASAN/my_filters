@@ -1,8 +1,8 @@
-[Adblock Plus 4.46.0]
+[Adblock Plus 4.47.0]
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2026/10/10 23:05
+! 最終更新 2026/10/15 18:13
 
 !ここから追加
 ##.comment-area
@@ -268,7 +268,7 @@ tv-tokyo.co.jp##.tbcms_recent-post
 tv-tokyo.co.jp##.tbcms_grid__cell.tbcms_grid__cell--cols_1-2.tbcms_update
 twicolle-plus.com##.balloon5
 w.atwiki.jp##.atwiki-link-forum
-x.com##.sticky.top-0.flex.w-full.flex-col.gap-4.px-6.pt-3.pb-16.\*\:shrink-0
+x.com##.sticky.top-0.flex.w-full.flex-col.gap-4.px-6.py-3.\*\:shrink-0
 x.com##.outline-blue-500.transition-colors.focus-visible\:outline-2.focus-visible\:-outline-offset-2.px-horizontal.py-vertical.border-b.border-gray-100.cursor-pointer.hover\:bg-black-03.dark\:hover\:bg-white-03
 xbox.com##.Row-module__row___iFfSz
 xtrend.nikkei.com###rhizomePostArea
