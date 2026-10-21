@@ -1,8 +1,8 @@
-[Adblock Plus 4.47.0]
+[Adblock Plus 4.48.0]
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2026/10/15 23:48
+! 最終更新 2026/10/21 16:42
 
 !ここから追加
 ##.comment-area
@@ -188,6 +188,7 @@ nicovideo.jp##.Marquee
 nicovideo.jp##.css-ej666q
 nicovideo.jp##.d_flex.flex-d_column.gap_x2.p_x2.w_watchSidebar\.width.h_100\%.bg-c_layer\.surfaceHighEm.bdr_m.ov_hidden.w_\[fit-content\]
 nikkan-gendai.com##.right-menu
+nikkan-gendai.com###latest_article
 nikkei.com##.k-hub-comemo-header-postfix
 nikkei.com##.k-hub-layout__grid--comemo
 note.com##.min-h-screen.lg\:mt-2.lg\:mb-0.lg\:ml-4.lg\:grid.lg\:grid-cols-\[202px_minmax\(0\,1fr\)\].lg\:grid-rows-none
