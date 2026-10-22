@@ -2,7 +2,7 @@
 
 ! Title: マイ フィルターリスト1
 ! 作成者：MOCO
-! 最終更新 2026/10/21 16:42
+! 最終更新 2026/10/22 16:59
 
 !ここから追加
 ##.comment-area
@@ -270,7 +270,7 @@ tv-tokyo.co.jp##.tbcms_grid__cell.tbcms_grid__cell--cols_1-2.tbcms_update
 twicolle-plus.com##.balloon5
 w.atwiki.jp##.atwiki-link-forum
 x.com##.sticky.top-0.flex.w-full.flex-col.gap-4.px-6.py-3.\*\:shrink-0
-x.com##.outline-focus.transition-colors.focus-visible\:outline-2.focus-visible\:-outline-offset-2.px-horizontal.py-vertical.\[--media-overhang-end\:var\(--spacing-horizontal\)\].\[--media-overhang-start\:var\(--spacing-horizontal\)\].border-b.border-normal.cursor-pointer.hover\:bg-black-03.dark\:hover\:bg-white-03
+x.com##.outline-focus.transition-colors.focus-visible\:outline-2.focus-visible\:-outline-offset-2.px-horizontal.py-vertical.\[--media-overhang-end\:var\(--spacing-horizontal\)\].\[--media-overhang-start\:var\(--spacing-horizontal\)\].border-b.border-divider.cursor-pointer.hover\:bg-hover-faint.relative
 xbox.com##.Row-module__row___iFfSz
 xtrend.nikkei.com###rhizomePostArea
 yodobashi.com##.section.pdContainer
